@@ -2,7 +2,7 @@ var APP_DATA = {
   "scenes": [
     {
       "id": "0-1-thin-thn-truyn-tin-cho-c-b-chu-thai",
-      "name": "1. Navještenje anđela Gabrijela Mariji",
+      "name": "1. Navještenje Anđela Gabrijela Mariji",
       "levels": [
         {
           "tileSize": 256,
@@ -44,14 +44,14 @@ var APP_DATA = {
         {
           "yaw": 1.160054435162591,
           "pitch": -0.28169234161257073,
-          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 115%;\">Navještenje anđela Gabrijela Mariji</span><o:p></o:p></p>",
+          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 115%;\">Navještenje Anđela Gabrijela Mariji</span><o:p></o:p></p>",
         "text": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">U šestome mjesecu posla Bog anđela Gabriela u galilejski grad imenom Nazaret k djevici zaručenoj s mužem koji se zvao Josip iz doma Davidova; a djevica se zvala Marija.</span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">Anđeo uđe k njoj i reče: »Zdravo, milosti puna! Gospodin s tobom!« Na tu se riječ ona smete i stade razmišljati kakav bi to bio pozdrav.</span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">No anđeo joj reče: »Ne boj se, Marijo! Ta našla si milost u Boga. <span style=\"font-style: italic;\">Evo, začet ćeš i roditi sina i nadjenut ćeš mu ime Isus.</span> On će biti velik i zvat će se Sin Svevišnjega. Njemu će Gospodin Bog dati <span style=\"font-style: italic;\">prijestolje Davida,</span> oca njegova, <span style=\"font-style: italic;\">i kraljevat će</span> nad domom Jakovljevim <span style=\"font-style: italic;\">uvijeke</span> i njegovu kraljevstvu neće biti kraja.«</span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">Nato će Marija anđelu: »Kako će to biti kad ja muža ne poznajem?«</span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">Anđeo joj odgovori: »Duh Sveti sići će na te i sila će te Svevišnjega osjeniti. Zato će to čedo i biti sveto, Sin Božji. A evo tvoje rođakinje Elizabete: i ona u starosti svojoj zače sina. I njoj, nerotkinjom prozvanoj, ovo je već šesti mjesec. <span style=\"font-style: italic;\">Ta Bogu ništa nije nemoguće!«</span></span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">Nato Marija reče: »Evo službenice Gospodnje, neka mi bude po tvojoj riječi!« I anđeo otiđe od nje.</span><o:p></o:p></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">(Luka 1:26-38)</span></p>"
         }
       ]
     },
     {
       "id": "1-2-c-b-i-ving-b-thnh-isave",
-      "name": "二、圣母往见圣妇依撒伯尔",
+      "name": "2. Marijin Pohod Sv. Elizabeti",
       "levels": [
         {
           "tileSize": 256,
@@ -99,8 +99,8 @@ var APP_DATA = {
         {
           "yaw": -0.12524373470416705,
           "pitch": -0.6640726414363716,
-          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 115%;\">圣母往见圣妇依撒伯尔</span><o:p></o:p></p>",
-          "text": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">玛利亚就在那几日起身，急速往山区去，到了犹大的一座城。她进了匝加利亚的家，就给依撒伯尔请安。依撒伯尔一听到玛利亚请安，胎儿就在她的腹中欢跃。依撒伯尔遂充满了圣神，大声呼喊说：「在女人中你是蒙祝福的，你的胎儿也是蒙祝福的。吾主的母亲驾临我这里，这是我那里得来的呢？看，你请安的声音一入我耳，胎儿就在我腹中欢喜踊跃。那信了由上主传于她的话必要完成的，是有福的。」<o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">(路加福音 1:39-45)</div>"
+          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 115%;\">Marijin Pohod Sv. Elizabeti</span><o:p></o:p></p>",
+          "text": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">Tih dana usta Marija i pohiti u Gorje, u grad Judin. Uđe u Zaharijinu kuću i pozdravi Elizabetu. Čim Elizabeta začu Marijin pozdrav, zaigra joj čedo u utrobi. I napuni se Elizabeta Duha Svetoga i povika iz svega glasa: »Blagoslovljena ti među ženama i blagoslovljen plod utrobe tvoje! Ta otkuda meni da mi dođe majka Gospodina mojega? Gledaj samo! Tek što mi do ušiju doprije glas pozdrava tvojega, zaigra mi od radosti čedo u utrobi. Blažena ti što povjerova da će se ispuniti što ti je rečeno od Gospodina!«<o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">(Luka 1:39-45)</div>"
         }
       ]
     },
