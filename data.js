@@ -216,7 +216,7 @@ var APP_DATA = {
     },
     {
       "id": "4-5-c-b-tm-c-c-cha-gisu-trong-n-thnh",
-      "name": "五、耶稣十二龄讲道",
+      "name": "5. Našašće Isusovo u Hramu",
       "levels": [
         {
           "tileSize": 256,
@@ -258,8 +258,8 @@ var APP_DATA = {
         {
           "yaw": -0.15803943551415855,
           "pitch": -0.41004943600042054,
-          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 115%;\">耶稣十二龄讲道</span><o:p></o:p></p>",
-          "text": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">他的父母每年逾越节往耶路撒冷去。他到了十二岁时，他们又照节日的惯例上去了。过完了节日，他们回去的时候，孩童耶稣却留在耶路撒冷，他的父母并未发觉。他们只以为他在同行的人中间，遂走了一天的路程；以后，就在亲戚和相识的人中寻找他。既找不着，便折回耶路撒冷找他。</span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">过了三天，才在圣殿里找到了他。他正坐在经师中，聆听他们，也询问他们。凡听见他的人，对他的智慧和对答，都惊奇不止。他们一看见他，便大为惊异，他的母亲就向他说：「孩子，为什么你这样对待我们？看，你的父亲和我，一直痛苦的找你。」耶稣对他们说：「你们为什么寻找我？你们不知道我必须在我父亲那里吗？」但是，他们不明白他对他们所说的话。<o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">(路加福音 2:41-50)</span></p>"
+          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 115%;\">Našašće Isusovo u Hramu</span><o:p></o:p></p>",
+          "text": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">Njegovi su roditelji svake godine o blagdanu Pashe išli u Jeruzalem. Kad mu bijaše dvanaest godina, uziđoše po običaju blagdanskom. Kad su minuli ti dani, vraćahu se oni, a dječak Isus osta u Jeruzalemu, a da nisu znali njegovi roditelji. Uvjereni da je među suputnicima, odoše dan hoda, a onda ga stanu tražiti među rodbinom i znancima. I kad ga ne nađu, vrate se u Jeruzalem tražeći ga.</span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">Nakon tri dana nađoše ga u Hramu gdje sjedi posred učiteljâ, sluša ih i pita. Svi koji ga slušahu bijahu zaneseni razumnošću i odgovorima njegovim. Kad ga ugledaše, zapanjiše se, a majka mu njegova reče: »Sinko, zašto si nam to učinio? Gle, otac tvoj i ja žalosni smo te tražili.« A on im reče: »Zašto ste me tražili? Niste li znali da mi je biti u onome što je Oca mojega?« Oni ne razumješe riječi koju im reče.<o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">(Luka 2:41-50)</span></p>"
         }
       ]
     }
